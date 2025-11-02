@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year undergraduate student at the School of International Education, Beijing University of Chemical Technology. My research interests include embodied intelligence, computer vision, computer graphics, reinforcement learning, and more.
+I am a third year undergraduate student at the School of International Education[this template](https://sie.buct.edu.cn/main.htm), Beijing University of Chemical Technology [this template](https://www.buct.edu.cn/main.htm). My research interests include embodied intelligence, computer vision, computer graphics, reinforcement learning, and more.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
